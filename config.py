@@ -1,2 +1,2 @@
 retries = 3
-timeout = 30
+debug = True 
